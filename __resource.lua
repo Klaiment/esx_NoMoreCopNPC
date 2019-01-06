@@ -1,0 +1,1 @@
+client_script "NoMoreCopNPC.lua"
