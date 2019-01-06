@@ -1,5 +1,6 @@
 # esx_NoMoreCopNPC
-No cop NPC / PAS DE FLIC MOLDU
+No cop NPC / PAS DE FLIC MOLDU + No NPC DROP / Plus d'armes sur le seul
+
 
 ### SPHINX ! (RP NAME : CLEMENT ESKO)
 
